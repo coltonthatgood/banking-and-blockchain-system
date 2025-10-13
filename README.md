@@ -1,0 +1,1 @@
+d/hd fintech project for a programming unit im taking. its 11:48 pm here because i randomly decided to do something cool for a new student so i do not wish to elaborate more.
