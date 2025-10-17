@@ -43,3 +43,5 @@ void add_account(SavingsAccount &s);
 std::vector<SavingsAccount> list_accounts;
 void login();
 bool login_data(string username, string password);
+void interface();
+void logout(SavingsAccount *sa);
